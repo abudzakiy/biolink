@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Belajar Digital Marketing</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f2f2f2;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #0077cc;
+      font-size: 26px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 16px;
+      margin-bottom: 30px;
+      color: #444;
+    }
+    .btn-link {
+      display: block;
+      width: 90%;
+      max-width: 350px;
+      margin: 15px auto;
+      padding: 14px 20px;
+      background: #0077cc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: background 0.3s;
+    }
+    .btn-link:hover {
+      background: #005fa3;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 13px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Belajar Digital Marketing</h1>
+  <p>Ingin jago jualan online? Pelajari strategi digital marketing dari nol di sini:</p>
+
+  <a class="btn-link" href="https://afidinar.biz.id/daftar-produk/19/abudzakiy" target="_blank">
+    Gabung Kelas Digital Marketing Lengkap
+  </a>
+
+  <a class="btn-link" href="https://wa.me/6281234567890" target="_blank">
+    Tanya Admin via WhatsApp
+  </a>
+
+  <footer>
+    © 2025 Mas Abudzakiy | Powered by GitHub Pages
+  </footer>
+</body>
+</html>
